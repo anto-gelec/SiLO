@@ -5,7 +5,7 @@ Si⅃O - USB-C OPEN SOURCE POWERBANK
 
 A powerbank with USB-C Power Delivery and 4S 18650 charger / BMS
 
-Copyright Antonin G. 2020.
+Copyright Antonin Guesdon. 2020.
 
 This source describes Open Hardware and is licensed under the CERN-OHL-W v2
 
